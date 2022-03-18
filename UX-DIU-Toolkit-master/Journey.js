@@ -19,7 +19,7 @@
 
 angular.module("angular", [])
 	.controller("controller", ["$scope", function($scope) { 
-		$scope.Grupo_ID ="DIU1.ABCDEF";
+		$scope.Grupo_ID ="DIU2.Loading";
         $scope.Curso ="2021/22";
         $scope.Github_ID ="https://github.com/mgea/UX-DIU-Toolkit";
         
@@ -34,55 +34,55 @@ angular.module("angular", [])
                 /*************************************/
                 
 				Id: 0,
-				Name: "Pedro",
-                Photo: "man.png",
+				Name: "Abraham Santos",
+                Photo: "AbrahamSantos.jpg",
     
                 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "quiere preparar un viaje con sus amigos en Semana Santa",
-                touch1: "agenda",
-                feel1: "4",
-                con1: "ver cuantos días puede tener libres para organizar lugar de viaje ",
-                ima1: "cartoon-planning.png",
+                goal1: "Vió un post de Cruz Cafuné sobre un gira por España y Granada es una de sus paradas más próximas. Además piensa que es una buena oportunidad para añadir la experioencia en su vlog",
+                touch1: "Móvil",
+                feel1: "5",
+                con1: "Entusiasmado en organizar su viaje y su vlog para mostrar el lugar.",
+                ima1: "01encuentrapost.png",
 				
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Busca en internet ofertas para esas fechas",
-                touch2: "Movil",
-                feel2: "2",
-                con2: "hay demasiada información y pierde mucho tiempo, no hay precios 'baratos'",
-                ima2: "cartoon-PCangry.png",
+                goal2: "Propone a sus amigos ir juntos. Busca en internet alojamientos para todos y lugares de ocio e interés en Granada",
+                touch2: "Móvil",
+                feel2: "3",
+                con2: "Al ser un grupo grande encuentra dificultad a la hora de encontrar alojamiento",
+                ima2: "02busca.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Decide buscar un alojamiento rural  en plasencia, donde hay procesiones y parece que hará buen tiempo",
-                touch3: "móvil (el tiempo)",
-                feel3: "3",
-                con3: "Está preocupado por el tiempo y el desplazamiento (coche y aparcamiento)",
-                ima3: "cartoon-phone.png",
+                goal3: "Encuentra algunos hostels que ofrecen habitaciones para grupos y se percata que muchos ofrecen además café, bar, espectáculo...",
+                touch3: "Móvil",
+                feel3: "2",
+                con3: "Se preocupa de no sólo buscar alojamiento sino también tener en cuenta los otros servicios que puedan ofrecer y su ubicación.",
+                ima3: "03agobio.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Los amigos le recomiendan una página para escoger alojamientos",
+                goal4: "Queda con sus amigos para discutir y compartir las páginas varias opciones que han encontrado a la mayoría les han llamado la atención algnos hosteles que tengan bar",
                 touch4: "ordenador",
-                feel4: "4",
-                con4: "Buscar opciones en el lugar que había seleccionado, viendo precios y distancias, tiene que ver si hay aparcamiento fácil",
-                ima4: "cartoon-PCtyping.png",
+                feel4: "3",
+                con4: "Con sus amigos se siente menos agobiado a la hora de encontrar el lugar perfecto para ellos",
+                ima4: "04discutir.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Se encuentra 3 opciones que encajan en sus preferencias",
-                touch5: "móvil (whatsapp)",
-                feel5: "2",
-                con5: "Llama a sus amigos (whatsapp no responen) para ver cual es su preferencia, tienen que reservar rápido por los precios",
-                ima5: "cartoon-phoning.png",
+                goal5: "De todos ellos se decantan por uno llamado Carlotta Braun por su cercanía al centro y la variedad de eventos que organizan y se muestran en sus redes sociales.",
+                touch5: "ordenador portatil y móvil",
+                feel5: "4",
+                con5: "Todos mas o menos están de acuerdo con la propuesta",
+                ima5: "05amigosbuscan.png",
                 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consigue reservar, otro año se encarga otro!",
+                goal6: "Consiguen reservar y se ponen otras actividades que les gustarían hacer en su viaje",
                 touch6: "ordenador",
-                feel6: "3",
-                con6: "algunos amigos no confirmaron por lo que tuvo que seleccionar reserva con posibilidad de cancelación",
-                ima6: "cartoon-resting.png",
+                feel6: "5",
+                con6: "Teniendo ya alojamiento asegurado y más relajado comentan más actividades que hacer los demás días",
+                ima6: "06decision.png",
                 
 			},
 			{	
@@ -92,8 +92,8 @@ angular.module("angular", [])
                 /*************************************/
                 
 				Id: 1,
-				Name: "Monica Suarez",
-                Photo: "woman.png",
+				Name: "Charlotte Moreau",
+                Photo: "CharlotteMoreau.jpg",
                 
 				 /*** PASO #1: INSPIRACION ***/ 
                 goal1: "Quiere preparar un viaje con su familia para Verano, tiene sólo 15 dias libres",
