@@ -69,7 +69,7 @@ angular.module("angular", [])
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "De todos ellos se decantan por uno llamado Carlotta Braun por su cercanía al centro y la variedad de eventos que organizan y se muestran en sus redes sociales.",
+                goal5: "De todos ellos se decantan por uno llamado Carlota Braun por su cercanía al centro y la variedad de eventos que organizan y se muestran en sus redes sociales.",
                 touch5: "ordenador portatil y móvil",
                 feel5: "4",
                 con5: "Todos mas o menos están de acuerdo con la propuesta",
@@ -96,51 +96,51 @@ angular.module("angular", [])
                 Photo: "CharlotteMoreau.jpg",
                 
 				 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "Quiere preparar un viaje con su familia para Verano, tiene sólo 15 dias libres",
-                touch1: "agenda",
-                feel1: "5",
-                con1: "Quiere ir a un pais exotico pero que tenga atracciones para niños pequeños",
-                ima1: "cartoon-going.png",
+                goal1: "Hablando con su prima María sobre lo que quieren hacer en vacaciones se dan cuenta de que coinciden sus días libres y deciden quedar juntas",
+                touch1: "Ordenador",
+                feel1: "4",
+                con1: "Tiene una charla tranquila hablando sobre sus cosas y se emociona ya que hace tiempo que no se ven en persona",
+                ima1: "01charla.png",
                 
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Ir a una agencia de viajes, y decirle sus preferencias y planes",
-                touch2: "Servicio (agencia)",
+                goal2: "Deciden quedar en la ciudad de María pues Charlotte quiere tener un cambio de aires y de paso visitarla",
+                touch2: "Ordenador",
                 feel2: "4",
-                con2: "Tiene que desplazarse a agencia, explica su intenciones, le llamaran porque no hay nada interesante",
-                ima2: "cartoon-teamthinking.png",
+                con2: "Charlotte piensa que cambiar de ambiente es bueno aunque le preocupa encontrar alojamiento ya que es un poco precipitado a lo que ella suele acostumbrar",
+                ima2: "02decision.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Le llaman a los pocos días con un viaje que no le convence",
-                touch3: "Móvil (llamada)",
-                feel3: "2",
-                con3: "Piensa que ha perdido el tiempo",
-                ima3: "cartoon-phoningangry.png",
+                goal3: "María ofrece alojamiento en su casa a su prima. Charlotte quiere ir a algún sitio con buen ambiente para relajarse. Como a ambas le gustan el jazz decide buscar algún sitio relacionado",
+                touch3: "Móvil",
+                feel3: "3",
+                con3: "Charlotte busca sittios de jazz para ir con su prima.",
+                ima3: "03busca.jpg",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Busca una oferta en hoteles cerca de playa y con parque atracciones",
-                touch4: "Móvil (webapp)",
-                feel4: "2",
-                con4: "No hay mucha información del alojamiento ni de lo que hay alrededor, aunque el precio está bien, va por la calle por lo que está incómoda",
-                ima4: "cartoon-phone-street.png",
+                goal4: "A Charlotte le llaman la atención algunos bares y pubs que reproducen jazz en directo",
+                touch4: "Móvil",
+                feel4: "4",
+                con4: "Le pide opinión de los bares que ha encontrado a su prima para decidir a cuáles irían",
+                ima4: "04mirabar.jpg",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Reserva a traves de la aplicación ",
-                touch5: "Móvil (webapp)",
-                feel5: "3",
-                con5: "Le pide muchos datos y le resulta incómodo completar formulario",
-                ima5: "cartoon-phone-sitting.png",
+                goal5: "María dice que de los que Charlotte le ha enseñado, unos amigos suyos le han recomendado Carlota Braun, donde ofrecen jazz una vez a la semana",
+                touch5: "Móvil",
+                feel5: "4",
+                con5: "Charlotte le echa un vistazo a la página web y le agrada.",
+                ima5: "05show.jpg",
 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consiguie reservar para vacaciones pero no era lo que tenía en mente",
-                touch6: "Ordenador (reserva OK)",
-                feel6: "2",
-                con6: "Tendrá que buscar más información del lugar para ver que actividades ofrece y donde aparacar!",
-                ima6: "cartoon-PChard.png",
+                goal6: "Se deciden por ir juntas a dicho bar el día en el que hay jazz",
+                touch6: "",
+                feel6: "5",
+                con6: "Pasan un buen rato",
+                ima6: "06salida.jpg",
                 
                 
                 
