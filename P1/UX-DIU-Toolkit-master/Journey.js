@@ -69,7 +69,7 @@ angular.module("angular", [])
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "De todos ellos se decantan por uno llamado Carlotta Braun por su cercanía al centro y la variedad de eventos que organizan y se muestran en sus redes sociales.",
+                goal5: "De todos ellos se decantan por uno llamado Carlota Braun por su cercanía al centro y la variedad de eventos que organizan y se muestran en sus redes sociales.",
                 touch5: "ordenador portatil y móvil",
                 feel5: "4",
                 con5: "Todos mas o menos están de acuerdo con la propuesta",
@@ -127,8 +127,8 @@ angular.module("angular", [])
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "María dice que de los que Charlotte le ha enseñado, unos amigos suyos le han recomendado Carlotta Braun, donde ofrecen jazz una vez a la semana",
-                touch5: "Móvil (webapp)",
+                goal5: "María dice que de los que Charlotte le ha enseñado, unos amigos suyos le han recomendado Carlota Braun, donde ofrecen jazz una vez a la semana",
+                touch5: "Móvil",
                 feel5: "4",
                 con5: "Charlotte le echa un vistazo a la página web y le agrada.",
                 ima5: "05show.jpg",
@@ -137,7 +137,7 @@ angular.module("angular", [])
                 /*** PASO #6: CONCLUSION ***/ 
                 
                 goal6: "Se deciden por ir juntas a dicho bar el día en el que hay jazz",
-                touch6: "Ordenador (reserva OK)",
+                touch6: "",
                 feel6: "5",
                 con6: "Pasan un buen rato",
                 ima6: "06salida.jpg",
