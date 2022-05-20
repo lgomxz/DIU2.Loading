@@ -116,7 +116,7 @@ La página web principal a analizar nos ha sido asignada por subgrupos (hostel C
 -----
 
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
-![Layout](P2/Mapa.jpg)
+![Layout](P2/bocetoaplicacion.png)
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
