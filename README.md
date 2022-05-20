@@ -19,7 +19,7 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Logotipo Principal
-<img src="P3/Logo.jpg" width="48">
+<img src=P3/Logo.jpg width="48">
 ![Logo](P3/Logo.jpg =250x250)
 
 Versiones en blanco y negro:
