@@ -96,7 +96,7 @@ La página web principal a analizar nos ha sido asignada por subgrupos (hostel C
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
 >>> Propuesta de valor 
- ![ScopeCanvas](P3/Propuesta de valor.pdf)
+ ![ScopeCanvas](P3/ScopeCanvas.png)
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
