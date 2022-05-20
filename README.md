@@ -46,7 +46,7 @@ Miembros
 
 La página web principal a analizar nos ha sido asignada por subgrupos (hostel Carlota Braun). Las otras Granada Told Town y The Hat Madrid Hotel nos llamaron la atención por cómo se presentaban, su temática similar y las diferencias entre las páginas web
 
-(P1/CompetitiveAnalysis.JPG)
+![CompetitiveAnalysis](P1/CompetitiveAnalysis.JPG)
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
