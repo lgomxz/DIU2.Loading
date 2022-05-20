@@ -164,9 +164,11 @@ Navegabilidad:
 -Icono Home principal: Adicionalmente, arriba a la derecha se encuentra un botón (icono casa) con el que se puede acceder a la página principal de la aplicación.
 
 Búsqueda: 
+
 -Filtros de búsqueda: En la parte superior de la página en la que se muestran los eventos, hay una barra de búsqueda con la que se pueden encontrar coincidencias de texto. Ejemplo: Buscar el nombre de un cómico famoso.
 
 Formulario:
+
 -Formato estructurado: Para la inscripción del Stand-up comedy se proporciona un formulario de datos al usuario pidiendo la información requerida.
 
 ![Método UX](img/mockup.png)  3.d Mockup
