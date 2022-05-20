@@ -19,10 +19,10 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Logotipo Principal:
-(P3/Logo.jpg)
+![Logo](P3/Logo.jpg)
 
 Versiones en blanco y negro:
-(P3/Logo_blanco.png)(P3/Logo_negro.png)
+![LogoBlanco](P3/Logo_blanco.png)![LogoNegro](P3/Logo_negro.png)
 
 Miembros
  * :bust_in_silhouette:   Ana García Muñoz     :octocat:     
