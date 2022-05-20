@@ -100,26 +100,23 @@ La página web principal a analizar nos ha sido asignada por subgrupos (hostel C
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
-
 >>> Definir "User Map" y "Task Flow" ... 
 
+![TaskFlow](P2/usertask.jpg)
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
-
+![SiteMap](P2/Mapa.jpg)
 
 >>> Identificar términos para diálogo con usuario  
 
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
-
+![Labelling](P2/Etiquetas.png)
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
-
+![Layout](P2/Mapa.jpg)
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
