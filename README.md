@@ -126,7 +126,8 @@ La página web principal a analizar nos ha sido asignada por subgrupos (hostel C
 >>> Paleta de colores 
 Hemos tomado como colores del moodboard el rojo, el azul, el negro y el gris claro. Hemos mantenido la paleta de colores de la página web. El principal es el rojo, presente en el icono y la web. Es llamativo, energético y transmite comodidad. El negro, el gris claro y los toques azules (su complementario cercano) suavizan el rojo intenso presente en la paleta y la hace más agradable a la vista.
 
->>> Logotipo 
+Logotipo 
+
 ![Logo](P3/Logo.jpg)
 
 ![Layout](P3/moodboard.png)
