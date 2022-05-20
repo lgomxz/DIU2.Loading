@@ -156,11 +156,16 @@ Logotipo
 Patrones
 
 Utilizando los patrones de diseño que proporciona las páginas UI Design patterns (https://ui-patterns.com/patterns) y Material Design(https://material.io/), hemos decicido aplicar:
+
 Navegabilidad:
+
 -Navegación inferior: La barra de navegación está dispuesta en la parte inferior de la pantalla. Está separada por secciones diferenciadas por iconos y a las que se puede acceder pulsando sobre éstos.
+
 -Icono Home principal: Adicionalmente, arriba a la derecha se encuentra un botón (icono casa) con el que se puede acceder a la página principal de la aplicación.
+
 Búsqueda: 
 -Filtros de búsqueda: En la parte superior de la página en la que se muestran los eventos, hay una barra de búsqueda con la que se pueden encontrar coincidencias de texto. Ejemplo: Buscar el nombre de un cómico famoso.
+
 Formulario:
 -Formato estructurado: Para la inscripción del Stand-up comedy se proporciona un formulario de datos al usuario pidiendo la información requerida.
 
