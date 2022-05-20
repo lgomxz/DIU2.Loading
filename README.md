@@ -32,6 +32,7 @@ Miembros
 -----
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+
 La página web principal a analizar nos ha sido asignada por subgrupos (hostel Carlota Braun). Las otras Granada Told Town y The Hat Madrid Hotel nos llamaron la atención por cómo se presentaban, su temática similar y las diferencias entre las páginas web
 
 ![Método UX](img/Persona.png) 1.b Persona
