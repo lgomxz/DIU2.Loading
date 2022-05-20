@@ -123,6 +123,14 @@ La página web principal a analizar nos ha sido asignada por subgrupos (hostel C
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
+>>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
+>>> Incluir Logotipo
+>>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+
+La herramienta usada ha sido Medibang Paint, una aplicación móvil de dibujo.
+La resolución que hemos usado para la imagen es: 1952x1929, aunque la hemos reducido para que quede mejor en el README.md.
+Consideramos que no puede ser utilizada como cabecera por el formato que hemos propuesto, aunque sí como imagen de perfil.
+
 >>> Paleta de colores 
 Hemos tomado como colores del moodboard el rojo, el azul, el negro y el gris claro. Hemos mantenido la paleta de colores de la página web. El principal es el rojo, presente en el icono y la web. Es llamativo, energético y transmite comodidad. El negro, el gris claro y los toques azules (su complementario cercano) suavizan el rojo intenso presente en la paleta y la hace más agradable a la vista.
 
@@ -132,23 +140,29 @@ Logotipo
 
 ![Layout](P3/moodboard.png)
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
-
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
 >>> Plantear Landing Page 
  
- ![Layout](P2/Landingpage.png)
+ ![Layout](P3/Landingpage.png)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
 >>> Estudio de Guidelines y Patrones IU a usar 
 >>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Patrones
+
+Utilizando los patrones de diseño que proporciona las páginas UI Design patterns (https://ui-patterns.com/patterns) y Material Design(https://material.io/), hemos decicido aplicar:
+Navegabilidad:
+-Navegación inferior: La barra de navegación está dispuesta en la parte inferior de la pantalla. Está separada por secciones diferenciadas por iconos y a las que se puede acceder pulsando sobre éstos.
+-Icono Home principal: Adicionalmente, arriba a la derecha se encuentra un botón (icono casa) con el que se puede acceder a la página principal de la aplicación.
+Búsqueda: 
+-Filtros de búsqueda: En la parte superior de la página en la que se muestran los eventos, hay una barra de búsqueda con la que se pueden encontrar coincidencias de texto. Ejemplo: Buscar el nombre de un cómico famoso.
+Formulario:
+-Formato estructurado: Para la inscripción del Stand-up comedy se proporciona un formulario de datos al usuario pidiendo la información requerida.
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
