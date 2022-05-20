@@ -52,6 +52,7 @@ La página web principal a analizar nos ha sido asignada por subgrupos (hostel C
 -----
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+
   Los hemos escogido al ser clientes potenciales (16-30 años) que podrían estar interesados en los servicios que ofrece.
 
 ![UserPersona1](https://user-images.githubusercontent.com/74658801/159120669-9ec912ff-c0b5-4058-9d00-284d7ff92c20.jpg)
@@ -61,8 +62,8 @@ La página web principal a analizar nos ha sido asignada por subgrupos (hostel C
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
-
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+
   Según la personalidad y forma de ser de cada uno, elegimos escenarios que se adaptaban a ellos y que podría ocurrir a otro cliente con intenciones similares.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
@@ -73,7 +74,6 @@ La página web principal a analizar nos ha sido asignada por subgrupos (hostel C
 >>> - Valoración final (numérica): 76
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
    Hay errores en enlaces de ubicación, el scroll puede optimizarse y faltan botones sociales. Por lo demás, es fácil de usar y llamativa.
-
 
 ## Paso 2. UX Design  
 
