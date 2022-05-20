@@ -18,6 +18,12 @@ Hemos decidido añadir una nueva actividad al establecimiento: Un Stand-up Comed
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
+Logotipo Principal:
+(P3/Logo.jpg)
+
+Versiones en blanco y negro:
+(P3/Logo_blanco.png)(P3/Logo_negro.png)
+
 Miembros
  * :bust_in_silhouette:   Ana García Muñoz     :octocat:     
  * :bust_in_silhouette:  Lorena Gómez Gómez     :octocat:
