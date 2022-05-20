@@ -146,7 +146,7 @@ Logotipo
 
 >>> Plantear Landing Page 
  
- ![Layout](P3/Landingpage.png)
+ ![Layout](P3/LandingPage.png)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
