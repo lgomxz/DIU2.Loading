@@ -81,7 +81,6 @@ La página web principal a analizar nos ha sido asignada por subgrupos (hostel C
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
 
-
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
  Interesante | Críticas     
