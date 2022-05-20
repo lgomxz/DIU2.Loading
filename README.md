@@ -123,7 +123,13 @@ La página web principal a analizar nos ha sido asignada por subgrupos (hostel C
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
+>>> Paleta de colores 
+Hemos tomado como colores del moodboard el rojo, el azul, el negro y el gris claro. Hemos mantenido la paleta de colores de la página web. El principal es el rojo, presente en el icono y la web. Es llamativo, energético y transmite comodidad. El negro, el gris claro y los toques azules (su complementario cercano) suavizan el rojo intenso presente en la paleta y la hace más agradable a la vista.
 
+>>> Logotipo 
+![Logo](P3/Logo.jpg)
+
+![Layout](P3/moodboard.png)
 
 >>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
 >>> Incluir Logotipo
@@ -133,8 +139,9 @@ La página web principal a analizar nos ha sido asignada por subgrupos (hostel C
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
-
 >>> Plantear Landing Page 
+ 
+ ![Layout](P2/Landingpage.png)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
