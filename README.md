@@ -83,9 +83,6 @@ La página web principal a analizar nos ha sido asignada por subgrupos (hostel C
 
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
   ![image](https://user-images.githubusercontent.com/74658801/164947768-c06d3c9e-9a51-4cfb-8820-ad49ceba76ee.png)
 
     
