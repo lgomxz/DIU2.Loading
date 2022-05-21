@@ -177,6 +177,7 @@ Formulario:
 >>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
 
 A continuación se puede observar la interfaz que hemos diseño y cómo funciona:
+![Mockup](P3/P3.gif)
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
